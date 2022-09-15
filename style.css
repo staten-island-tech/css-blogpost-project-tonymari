@@ -1,10 +1,5 @@
-body {background-color: indigo;
-color: blue;
-font-size: 25px;}
-h1{ 
-    color: beige;
-}
-.main-header{
-    color: azure;
-}
-#id{color: bisque;}
+body {background-color: rgb(5, 192, 248);
+font-size: 37px;font-family: 'Raleway', sans-serif;}
+.title{text-align: center;color:white;}
+.Description{text-align: center;color:white;
+    font-size: 27px;}
