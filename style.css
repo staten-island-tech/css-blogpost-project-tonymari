@@ -3,3 +3,7 @@ font-size: 37px;font-family: 'Raleway', sans-serif;}
 .title{text-align: center;color:white;}
 .Description{text-align: center;color:white;
     font-size: 27px;}
+.backround1 { 
+    border-radius: 15px; width: 50vw; padding: 15px; margin:30px auto; background-color: blanchedalmond;position:  top 100px;
+}
+.percy {background-image: url(https://th.bing.com/th/id/R.8166ed911d05c8da813761782202fa88?rik=3eoCL31sUDKqjw&riu=http%3a%2f%2fimages.wikia.com%2fttte%2fimages%2f6%2f69%2fPercy%27sBigMistake20.jpg&ehk=oFvc5fbDRB2FLbTho6WuWT2D9qs5GCwjcGBj6T6w%2fEk%3d&risl=&pid=ImgRaw&r=0); padding: 15px ;height: 40vw;background-position: center; background-size: cover;} 
