@@ -1,16 +1,83 @@
-body {background-color: rgb(5, 192, 248);
-font-size: 37px;font-family: 'Raleway', sans-serif;}
-.title{text-align: center;color:white;}
-.Description{text-align: center;color:white;
-    font-size: 27px;}
-.backround1 { 
-    border-radius: 15px; width: 50vw; padding: 15px; margin:30px auto; background-color: blanchedalmond;position:  top 100px;
+body {
+    background-color: rgb(5, 192, 248);
+    font-size: 37px;
+    font-family: 'Raleway', sans-serif;
 }
-div{ background-color: dodgerblue;
-text-align: center;
-font-family: "Raleway"sans-serif;
-border-radius: 15px; width: 50vw; padding: 15px; margin:30px auto; background-color: blanchedalmond;position:  top 100px;
-color: white
+
+.title {
+    text-align: center;
+    color: white;
 }
-.image2{ size: 10px;
+
+.Description {
+    text-align: center;
+    color: white;
+    font-size: 27px;
+}
+
+.backround1 {
+    border-radius: 15px;
+    width: 50vw;
+    padding: 15px;
+    margin: 30px auto;
+    background-color: blanchedalmond;
+    position: top 100px;
+}
+
+div {
+    background-color: dodgerblue;
+    text-align: center;
+    font-family: "Raleway" sans-serif;
+    border-radius: 15px;
+    width: 50vw;
+    padding: 15px;
+    margin: 30px auto;
+    background-color: blanchedalmond;
+    position: top 100px;
+    color: white
+}
+
+.train1 {
+    text-align: center;
+    color: green;
+}
+
+.train1text {
+    text-align: center;
+    color: green;
+}
+
+.train2 {
+    text-align: center;
+    color: brown;
+}
+
+.train2text {
+    text-align: center;
+    color: brown;
+}
+
+.train3 {
+    text-align: center;
+    color: magenta;
+}
+
+.train3text {
+    text-align: center;
+    color: magenta;
+}
+
+.image2 {
+    width: 600px;
+    height: 400px;
+}
+
+.image1 {
+    width: 600px;
+    height: 400px;
+}
+
+.image3 {
+    width: 600px;
+    height: 400px;
 }
